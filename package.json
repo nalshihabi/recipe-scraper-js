@@ -2,7 +2,7 @@
   "name": "recipe-scraper-js",
   "version": "1.0.0",
   "description": "HTML recipe scraper for pulling recipe information from different recipe sites.",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc"
